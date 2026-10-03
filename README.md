@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE%20KYUNGMI&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=decode%20NANA&fontSize=20)
 
-<a href="https://github.com/irine3355/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{irine3355}"/>
+<a href="https://github.com/nana255255/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{nana255255}"/>
 </a>
 
 ## decode NANA 
